@@ -24,5 +24,5 @@
 
 ## Hash
 
-* [Untitled](hash/untitled.md)
+* [\#001 Two Sum](hash/untitled.md)
 
