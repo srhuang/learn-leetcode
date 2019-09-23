@@ -34,11 +34,15 @@ int* twoSum(int* nums, int numsSize, int target) {
 
 #### Space Complexity
 
-只有 solution 兩個數字的空間，所以是 O\(1\)。
+只有 solution 兩個數字的空間，所以是 $$O(1)$$。
 
 #### Time Complexity
 
-兩層迴圈總共花：\(n-1\) + \(n-2\) + \(n-3\) + ... + 1 = $O\(n^2\)$
+兩層迴圈總共花：\(n-1\) + \(n-2\) + \(n-3\) + ... + 1 = $$O(n^2)$$ 。
+
+### Two-pass Hash Table
+
+
 
 
 
